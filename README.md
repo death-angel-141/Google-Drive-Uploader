@@ -58,7 +58,7 @@ python3 bot.py
  - Dropbox Link
 
 ## Requirements
-  - [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (Others type)  `Required`
+  - [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (Others type/TV and Limited Input )  `Required`
   - Telegram Bot Token (Using BotFather)  `Required`
   - Openload ftp login and Key  `optional`
   - Mega Email and Password  `Optional`
@@ -69,7 +69,7 @@ python3 bot.py
 
 ## Setup Your Own Bot
 ```
-1. Create Your  [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (other type) and Download  Its json
+1. Create Your  [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (other type/TV and Limited Input ) and Download  Its json
 
 2. Paste it In Bot Root Directroy  and Rename it "client_secrets.json"
 
