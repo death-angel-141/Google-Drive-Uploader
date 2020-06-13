@@ -2,7 +2,7 @@
 
 # Google Drive Uploader Bot
   
-`It Was my first Python Project And behind this  Whole credit goes To ` [CyberBoySumanjay](https://github.com/cyberboysumanjay) 
+`It's a simple Python Project And behind this  Whole credit goes To ` [CyberBoySumanjay](https://github.com/cyberboysumanjay) 
 
 ### Inspired By Sumanjay  Bot :D [Google Drive Uploader](https://telegram.dog/driveuploadbot)
 
